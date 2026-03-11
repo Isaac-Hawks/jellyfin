@@ -1,5 +1,6 @@
 # Jellyfin Docker Container
-This is a template for a jellyfin server that runs in a docker container
+This repository provides a simple Docker-based setup for running a Jellyfin media server.  
+It includes a docker-compose configuration and foldor structure to make deployment easy.  
 These instructions are designed for Ubuntu/Debian systems
 
 ## Download:
